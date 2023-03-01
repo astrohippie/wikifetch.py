@@ -1,4 +1,13 @@
 #!/usr/bin/python3
+#=================================================================================================================================
+#
+#wikifetch v1.0: "Automated Wikipedia Information Fetcher" - (https://github.com/astrohippie/) - 2023 -> by AstroHippie
+#
+#----------- 
+#
+#wikifetch - This tool is a Python program that allows users to quickly fetch information from Wikipedia without having to manually navigate the website.
+# 
+#=================================================================================================================================
 
 import requests
 from bs4 import BeautifulSoup
