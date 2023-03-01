@@ -2,6 +2,7 @@ wikifetch v1.0
 Introduction
 
 wikifetch is a Python program that allows users to quickly fetch information from Wikipedia without having to manually navigate the website.
+
 Features
 
     Fetches search results from Wikipedia based on user input
