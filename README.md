@@ -25,6 +25,7 @@ git clone https://github.com/astrohippie/wikifetch.git
     Install the required modules using pip:
 
 pip install requests
+and
 pip install beautifulsoup4
 
 Usage
