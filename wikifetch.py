@@ -5,7 +5,7 @@
 #
 #----------- 
 #
-#wikifetch - This tool is a Python program that allows users to quickly fetch information from Wikipedia without having to manually navigate the website.
+#This Python program allows users to quickly fetch information from Wikipedia without having to manually navigate the website.
 # 
 #=================================================================================================================================
 
