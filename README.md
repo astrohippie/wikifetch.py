@@ -3,20 +3,20 @@ Introduction
 
 wikifetch is a Python program that allows users to quickly fetch information from Wikipedia without having to manually navigate the website.
 
-Features
+-Features
 
     Fetches search results from Wikipedia based on user input
     Displays search results to the user and prompts them to select a result
     Retrieves the selected result from Wikipedia and allows the user to choose an output format
     Can display the selected result to the user or save it to a .txt file
 
-Requirements
+-Requirements:
 
     Python 3.x
     requests module (can be installed using pip)
     BeautifulSoup module (can be installed using pip)
 
-Installation
+-Installation:
 
     Clone the repository from GitHub:
 
@@ -28,7 +28,7 @@ pip install requests
 and
 pip install beautifulsoup4
 
-Usage
+Usage:
 
     Open a terminal and navigate to the directory where wikifetch.py is saved.
     Run the program by typing:
@@ -37,9 +37,8 @@ python3 wikifetch.py
 
     Follow the on-screen prompts to search for a query, select a result, and choose an output format.
 
-Credits
+Credits:
+wikifetch was coded by AstroHippie.
 
-wikifetch was created by AstroHippie.
-License
-
+License:
 This program is licensed under the MIT License. See LICENSE for more information.
